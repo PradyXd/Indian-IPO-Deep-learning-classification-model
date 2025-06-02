@@ -1,5 +1,5 @@
 # Indian-IPO-Deep-learning-classification-model
-The project aimed to build a deep learning classification model to predict whether an Indian IPO will list at a profit or not. The project used the Indian IPO Market Data dataset. 
+This project aims to build a deep learning classification model to predict whether an Indian Initial Public Offering (IPO) will list at a profit or not, based on historical market data.
 
 # Project Overview
 Leveraging a dataset of Indian IPOs, this project explores the data, preprocesses it, and builds a deep neural network using TensorFlow/Keras to predict the binary outcome of an IPO listing (profit or loss). The project follows a standard machine learning workflow including data exploration, cleaning, feature scaling, model building, training, and evaluation.
